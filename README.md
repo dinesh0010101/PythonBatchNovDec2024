@@ -75,4 +75,10 @@ To create new branch
     01.Introduction
         Importance of Python
         Two versions of Python (2.x & 3.x)
-        
+
+## Next class
+
+    built-in functions
+	Comment Operator
+    keywords and Identifiers
+    Line continuation and statement separator operators
