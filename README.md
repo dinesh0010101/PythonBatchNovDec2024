@@ -88,8 +88,37 @@ To create new branch
     Ascii and unicode characters
 	
 
-## Next class
+[class03 13th nov 2024](zoomrecordinglink)
 
     Comment Operator
     keywords and Identifiers
     Line continuation and statement separator operators
+
+    02.Basics
+    Arithmetic operations
+        +, -, , /, //, %, *
+        divmod() function
+        compound operations 
+        
+        Assignments:
+
+        1) Assignment -- try to the sum of digits in a integer number, using divmod()
+        2) Assignment -- If a clock has revolved for 32 times, and is half way, how many days completed
+
+
+        
+## Next class
+
+        Practical Problem solving
+        working with complex numbers
+        abs() function
+        Operator precedence in Arithmetic operations
+
+        String operations
+        Usage of single, double and triple quotes
+        len() function
+        Indexing and Slicing Strings
+        string attributes
+        String formatting: old & new styles, f-strings
+        bytearray() and byte() strings
+        unicode strings
