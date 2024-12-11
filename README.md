@@ -107,7 +107,7 @@ To create new branch
 
 
         
-[class03 15th nov 2024](zoomrecordinglink)
+[class04 15th nov 2024](zoomrecordinglink)
         Practical Problem solving
         working with complex numbers
         abs() function
@@ -122,16 +122,18 @@ To create new branch
         3) convert from hex to oct and vice versa
         4) feet to cms conversion
 
-## Next class
 
-        
+
+[class05 20th nov 2024](zoomrecordinglink)
         String operations
         Usage of single, double and triple quotes
         len() function
         Indexing and Slicing Strings
+
+[class06 22th nov 2024](zoomrecordinglink)
         string attributes
         String formatting: old & new styles, f-strings
         bytearray() and byte() strings
         unicode strings
 
-
+## Next class
