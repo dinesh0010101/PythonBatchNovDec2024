@@ -125,12 +125,18 @@ To create new branch
 
 
 [class05 20th nov 2024](zoomrecordinglink)
+
         String operations
         Usage of single, double and triple quotes
         len() function
         Indexing and Slicing Strings
 
-[class06 22th nov 2024](zoomrecordinglink)
+[class06 22nd nov 2024](zoomrecordinglink)
+
+        string attributes
+
+[class07 25th nov 2024](zoomrecordinglink)
+
         string attributes
         String formatting: old & new styles, f-strings
         bytearray() and byte() strings
