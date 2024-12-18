@@ -142,4 +142,14 @@ To create new branch
         bytearray() and byte() strings
         unicode strings
 
+
+[class07 27th nov 2024](zoomrecordinglink)
+
+        String formatting: old & new styles, f-strings
+        bytearray() and byte() strings
+        unicode strings
+
+
 ## Next class
+
+
