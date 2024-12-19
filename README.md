@@ -143,13 +143,29 @@ To create new branch
         unicode strings
 
 
-[class07 27th nov 2024](zoomrecordinglink)
+[class08 27th nov 2024](zoomrecordinglink)
 
         String formatting: old & new styles, f-strings
-        bytearray() and byte() strings
         unicode strings
 
 
+[class09 29th nov 2024](zoomrecordinglink)
+
+       bytearray() and byte() strings
+       Usage of help
+       Usage of pudoc
+
+    03.Language Components
+        Relational Operations
+        Logical Operations
+        Boolean Operations
+        Bitwise Operations
+        Identity Operations
+        range() function
+
 ## Next class
 
-
+        Conditional Operations
+        Structural Pattern Matching
+        Loops: for & while, break, continue, pass, sys.exit
+        Walrus Operator
