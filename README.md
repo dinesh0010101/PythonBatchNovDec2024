@@ -158,14 +158,17 @@ To create new branch
     03.Language Components
         Relational Operations
         Logical Operations
+
+
+[class10 2nd Dec 2024](zoomrecordinglink)
+
         Boolean Operations
         Bitwise Operations
         Identity Operations
         range() function
-
-## Next class
-
         Conditional Operations
         Structural Pattern Matching
         Loops: for & while, break, continue, pass, sys.exit
         Walrus Operator
+
+## Next class
