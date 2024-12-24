@@ -167,8 +167,11 @@ To create new branch
         Identity Operations
         range() function
         Conditional Operations
+
+[class11 2nd Dec 2024](zoomrecordinglink)
         Structural Pattern Matching
         Loops: for & while, break, continue, pass, sys.exit
-        Walrus Operator
 
 ## Next class
+        Walrus Operator
+
