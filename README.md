@@ -172,6 +172,28 @@ To create new branch
         Structural Pattern Matching
         Loops: for & while, break, continue, pass, sys.exit
 
+
+[class12 2nd Dec 2024]
+        
+    Walrus Operator
+
+    04.Exception Handling
+    Exceptions Hierarchy
+    Different types of errors, error vs exception and exception groups
+    Handling single and multiple exceptions
+    raising exceptions
+    asserts
+    traceback
+    exception Groups
+    warnings
+
 ## Next class
-        Walrus Operator
+05.Debugging
+	Importance of logical errors
+	Debugging with pydevd
+	Debugging with pdb, ipdb, pudb
+	breakpoint() function
+	PYTHONBREAKPOINT environment variable usage
+
+
 
