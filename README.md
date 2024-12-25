@@ -61,75 +61,75 @@ To create new branch
 
 [class00 4th nov 2024](zoomrecordinglink)
 
-    00. Dev Setup
-        Installing IDE/Editor
-        Installing Python and local setup
-        Github access, creating project
+        00. Dev Setup
+            Installing IDE/Editor
+            Installing Python and local setup
+            Github access, creating project
 
 [class01 6th nov 2024](zoomrecordinglink)
 
-        git commands
-        markdown syntax
-        daily activity and usage
+            git commands
+            markdown syntax
+            daily activity and usage
 
-    01.Introduction
-        Importance of Python
-        Two versions of Python (2.x & 3.x)
+        01.Introduction
+            Importance of Python
+            Two versions of Python (2.x & 3.x)
 
 [class02 11th nov 2024](zoomrecordinglink)
 
-    PEP 8 Guidelines(https://peps.python.org/pep-0008/)
-    shebang line
-    Indentation Issue and best practices
-    built-in functions
-    print function
-    Script mode vs interactive mode
-    Jupyter notebook usage
-    Ascii and unicode characters
-	
+            PEP 8 Guidelines(https://peps.python.org/pep-0008/)
+            shebang line
+            Indentation Issue and best practices
+            built-in functions
+            print function
+            Script mode vs interactive mode
+            Jupyter notebook usage
+            Ascii and unicode characters
+            
 
 [class03 13th nov 2024](zoomrecordinglink)
 
-    Comment Operator
-    keywords and Identifiers
-    Line continuation and statement separator operators
+        Comment Operator
+        keywords and Identifiers
+        Line continuation and statement separator operators
 
-    02.Basics
-    Arithmetic operations
-        +, -, , /, //, %, *
-        divmod() function
-        compound operations 
-        
-        Assignments:
+        02.Basics
+        Arithmetic operations
+            +, -, , /, //, %, *
+            divmod() function
+            compound operations 
+            
+            Assignments:
 
-        1) Assignment -- try to the sum of digits in a integer number, using divmod()
-        2) Assignment -- If a clock has revolved for 32 times, and is half way, how many days completed
+            1) Assignment -- try to the sum of digits in a integer number, using divmod()
+            2) Assignment -- If a clock has revolved for 32 times, and is half way, how many days completed
 
 
         
 [class04 15th nov 2024](zoomrecordinglink)
-        Practical Problem solving
-        working with complex numbers
-        abs() function
-        Operator precedence in Arithmetic operations
+            Practical Problem solving
+            working with complex numbers
+            abs() function
+            Operator precedence in Arithmetic operations
 
 
-    Assignments:
-        1) savings bank
-        2) bank loan
-            simple interest
-            compound interest
-        3) convert from hex to oct and vice versa
-        4) feet to cms conversion
+        Assignments:
+            1) savings bank
+            2) bank loan
+                simple interest
+                compound interest
+            3) convert from hex to oct and vice versa
+            4) feet to cms conversion
 
 
 
 [class05 20th nov 2024](zoomrecordinglink)
 
-        String operations
-        Usage of single, double and triple quotes
-        len() function
-        Indexing and Slicing Strings
+            String operations
+            Usage of single, double and triple quotes
+            len() function
+            Indexing and Slicing Strings
 
 [class06 22nd nov 2024](zoomrecordinglink)
 
@@ -137,83 +137,83 @@ To create new branch
 
 [class07 25th nov 2024](zoomrecordinglink)
 
-        string attributes
-        String formatting: old & new styles, f-strings
-        bytearray() and byte() strings
-        unicode strings
+            string attributes
+            String formatting: old & new styles, f-strings
+            bytearray() and byte() strings
+            unicode strings
 
 
 [class08 27th nov 2024](zoomrecordinglink)
 
-        String formatting: old & new styles, f-strings
-        unicode strings
+            String formatting: old & new styles, f-strings
+            unicode strings
 
 
 [class09 29th nov 2024](zoomrecordinglink)
 
-       bytearray() and byte() strings
-       Usage of help
-       Usage of pudoc
+            bytearray() and byte() strings
+            Usage of help
+            Usage of pudoc
 
-    03.Language Components
-        Relational Operations
-        Logical Operations
+            03.Language Components
+                Relational Operations
+                Logical Operations
 
 
 [class10 2nd Dec 2024](zoomrecordinglink)
 
-        Boolean Operations
-        Bitwise Operations
-        Identity Operations
-        range() function
-        Conditional Operations
+            Boolean Operations
+            Bitwise Operations
+            Identity Operations
+            range() function
+            Conditional Operations
 
 [class11 2nd Dec 2024](zoomrecordinglink)
-        Structural Pattern Matching
-        Loops: for & while, break, continue, pass, sys.exit
+            Structural Pattern Matching
+            Loops: for & while, break, continue, pass, sys.exit
 
 
 [class12 6th Dec 2024](zoomrecordinglink)
         
     Walrus Operator
 
-    04.Exception Handling
-    Exceptions Hierarchy
-    Different types of errors, error vs exception and exception groups
-    Handling single and multiple exceptions
-    raising exceptions
-    asserts
-    traceback
-    exception Groups
-    warnings
+            04.Exception Handling
+            Exceptions Hierarchy
+            Different types of errors, error vs exception and exception groups
+            Handling single and multiple exceptions
+            raising exceptions
+            asserts
+            traceback
+            exception Groups
+            warnings
 
 [class13 9th Dec 2024](zoomrecordinglink)
 
-05.Debugging
-	Importance of logical errors
-	Debugging with pydevd
-	Debugging with pdb, ipdb, pudb
-	breakpoint() function
-	PYTHONBREAKPOINT environment variable usage
+        05.Debugging
+            Importance of logical errors
+            Debugging with pydevd
+            Debugging with pdb, ipdb, pudb
+            breakpoint() function
+            PYTHONBREAKPOINT environment variable usage
 
 [class14 10th Dec 2024](zoomrecordinglink)
-    06.Collections
-        Lists
+            06.Collections
+                Lists
         
 [class15 11th Dec 2024](zoomrecordinglink)
 
-        copy Problem - shallow copy vs deepcopy
-        Tuples & namedtuples
-        Sets
-            sttributes, operations
+            copy Problem - shallow copy vs deepcopy
+            Tuples & namedtuples
+            Sets
+                sttributes, operations
 
 [class16 13th Dec 2024](zoomrecordinglink)
-        frozensets
-        Dictionaries
-            zip() function
-            workaround for switch case
-        Comprehensions
-        Working with Iterables - sum(), max(), min()
+            frozensets
+            Dictionaries
+                zip() function
+                workaround for switch case
+            Comprehensions
+            Working with Iterables - sum(), max(), min()
 
 [class17 16th Dec 2024](zoomrecordinglink)
 
@@ -228,7 +228,7 @@ To create new branch
                 call by reference
                 call by value## Next class
 
-[class17 16th Dec 2024](zoomrecordinglink)
+[class18 17th Dec 2024](zoomrecordinglink)
 
 
             Partial Functions
@@ -236,7 +236,36 @@ To create new branch
             Higher order functions: map(), filter(), functool.reduce()
             Recursions and recursions limit
             
-## Next class
+[class19 18th Dec 2024](zoomrecordinglink)
+
+
             inner functions
             closures
 
+            08.Decorator Design Pattern
+            Necessity
+            function Decorator
+            Practical Examples
+            syntactic sugar for decorators
+            multiple decorators on same function
+            decorators with arguments
+            functools - wrap, lru_cache
+            class decorator
+
+## Next class
+
+
+        09.Iterables, Iterators, Generators and co-routines
+            Iterables
+                different ways of extracting values from iterables
+            Iterators
+                iter() protocol
+                itertools module
+            Generators
+                yield vs return
+                function vs Generator
+                Generator pipelining
+                Generator Expression
+            Coroutine
+                Generator vs Coroutine
+                coroutine pipelining
