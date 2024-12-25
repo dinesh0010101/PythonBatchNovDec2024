@@ -173,7 +173,7 @@ To create new branch
         Loops: for & while, break, continue, pass, sys.exit
 
 
-[class12 2nd Dec 2024]
+[class12 6th Dec 2024](zoomrecordinglink)
         
     Walrus Operator
 
@@ -187,7 +187,8 @@ To create new branch
     exception Groups
     warnings
 
-## Next class
+[class13 9th Dec 2024](zoomrecordinglink)
+
 05.Debugging
 	Importance of logical errors
 	Debugging with pydevd
@@ -197,3 +198,4 @@ To create new branch
 
 
 
+## Next class
