@@ -196,6 +196,16 @@ To create new branch
 	breakpoint() function
 	PYTHONBREAKPOINT environment variable usage
 
-
+[class14 10th Dec 2024](zoomrecordinglink)
+    06.Collections
+        Lists
+        
 
 ## Next class
+        Tuples & namedtuples
+        Sets
+        Dictionaries
+            zip() function
+            workaround for switch case
+        Comprehensions
+        Working with Iterables - sum(), max(), min()
