@@ -226,12 +226,17 @@ To create new branch
             Functions with keyword only arguments
             Scoping: Global vs Local
                 call by reference
-                call by value
+                call by value## Next class
+
+[class17 16th Dec 2024](zoomrecordinglink)
+
+
             Partial Functions
             Anonymous(Lambda) Functions
             Higher order functions: map(), filter(), functool.reduce()
             Recursions and recursions limit
+            
+## Next class
             inner functions
             closures
 
-## Next class
