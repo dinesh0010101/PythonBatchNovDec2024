@@ -207,7 +207,7 @@ To create new branch
         Sets
             sttributes, operations
 
-[class16 11th Dec 2024](zoomrecordinglink)
+[class16 13th Dec 2024](zoomrecordinglink)
         frozensets
         Dictionaries
             zip() function
@@ -215,7 +215,8 @@ To create new branch
         Comprehensions
         Working with Iterables - sum(), max(), min()
 
-## Next class
+[class17 16th Dec 2024](zoomrecordinglink)
+
 
         07.Functions
             Functions with & without arguments, keyword arguments
@@ -223,7 +224,6 @@ To create new branch
             Functions with with Default arguments
             variadic functions : variable arguments and variable keyword arguments
             Functions with keyword only arguments
-
             Scoping: Global vs Local
                 call by reference
                 call by value
@@ -233,3 +233,5 @@ To create new branch
             Recursions and recursions limit
             inner functions
             closures
+
+## Next class
