@@ -301,16 +301,24 @@ To create new branch
                 Generator Expression
 
 [class22 23rd Dec 2024](zoomrecordinglink)
+
             Coroutine
                 Generator vs Coroutine
                 coroutine pipelining
 
-
-## Next class
-
-        10.Modules
+            10.Modules
             Basic Modules
-                - math, sys, argparse, os, shutil, pathlib, subprocess, getpass
+                - math, sys, argparse
+
+
+[class23 24th Dec 2024](zoomrecordinglink)
+
+             os, shutil, pathlib
+             
+             
+## Next class
+ 
+             subprocess, getpass
             time related
                 - time, datetime, pytz, timeit, calendar
             concurrency
@@ -320,3 +328,5 @@ To create new branch
 
             create user-defined module
             creating user-defined package
+
+
