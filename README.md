@@ -316,17 +316,39 @@ To create new branch
              os, shutil, pathlib
              
              
-## Next class
+[class24 26th Dec 2024](zoomrecordinglink)
  
              subprocess, getpass
             time related
                 - time, datetime, pytz, timeit, calendar
+            others
+                - random, collections, atexit, contextlib, base64
+
+
+
+## Next class
+
             concurrency
                 - Multiprocessing, Multithreading
-            others
-                - random, collections, atexit, contextlib, base64, turtle, tqdm
-
             create user-defined module
             creating user-defined package
 
-
+            11.File Operations
+            flat files
+            Non-flat files
+                pickle
+                shelve
+                xml
+                csv
+                dat
+                xls/xlsx
+                json
+                yaml
+                parquet
+                avro
+            Image files
+                displaying, creating and editing images
+            zipping files: .zip, .tar
+            pdf files
+            config files : .ini, .cfg
+            pyw files
