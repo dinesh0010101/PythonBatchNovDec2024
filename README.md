@@ -326,15 +326,17 @@ To create new branch
 
 
 
-## Next class
 
-            concurrency
-                - Multiprocessing, Multithreading
+[class25 30th Dec 2024](zoomrecordinglink)
+
             create user-defined module
             creating user-defined package
 
             11.File Operations
             flat files
+
+[class26 31th Dec 2024](zoomrecordinglink)
+
             Non-flat files
                 pickle
                 shelve
@@ -352,3 +354,5 @@ To create new branch
             pdf files
             config files : .ini, .cfg
             pyw files
+
+## Next class
