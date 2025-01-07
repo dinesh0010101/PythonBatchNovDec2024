@@ -332,6 +332,12 @@ To create new branch
             create user-defined module
             creating user-defined package
 
+            packaging 
+            creating the wheel files , tar files
+            publishing with twine
+            egg files
+
+            
             11.File Operations
             flat files
 
