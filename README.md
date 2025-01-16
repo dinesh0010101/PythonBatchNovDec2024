@@ -2,6 +2,22 @@
 
 A repository with all the classes material for becoming a python developer
 
+## local setup in windows
+
+Install 
+
+    git for windows
+
+    vs code
+
+    python
+        microsoft store -- python3 (version)
+
+
+git clone https://github.com/dinesh0010101/PythonBatchNovDec2024.git
+
+first time you need to pass the credentials, when running
+
 ## Git commands
 
 To clone a repository:(not need in codespace, needed for local development)
@@ -88,6 +104,16 @@ To create new branch
 
             windows
                 .venv/script/activate
+
+        Using Poetry
+            pip install -U pip
+            pip install poetry
+            python -m poetry init
+            python -m poetry shell
+
+            pip install poetry
+            poetry add pandas   
+
 ## Course Completed
 
 [class00 4th nov 2024](zoomrecordinglink)
@@ -347,6 +373,9 @@ To create new branch
                 pickle
                 shelve
                 xml
+                csv
+
+[class27 31th Dec 2024](zoomrecordinglink)
                 csv
                 dat
                 xls/xlsx
