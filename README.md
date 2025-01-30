@@ -383,7 +383,7 @@ To create new branch
                 dat
                 tsv
 
-[class28 06th Jan 2024](zoomrecordinglink)
+[class29 06th Jan 2024](zoomrecordinglink)
 
 12.Logging
     Simple logging
@@ -393,21 +393,9 @@ To create new branch
     configuring multiple handlers
     color logging
     Rotating logger
-## Next class
-
-                xls/xlsx
-                json
-                yaml
-                parquet
-                avro
-            Image files
-                displaying, creating and editing images
-            zipping files: .zip, .tar
-            pdf files
-            config files : .ini, .cfg
-            pyw files
 
 
+[class30 08th Jan 2024](zoomrecordinglink)
 
 13. OOP
     Importance of OOP
@@ -424,6 +412,24 @@ To create new branch
     creating context manager class
     Dataclasses
     Abstract Classes
+
+## Next class
+
+                xls/xlsx
+                json
+                yaml
+                parquet
+                avro
+            Image files
+                displaying, creating and editing images
+            zipping files: .zip, .tar
+            pdf files
+            config files : .ini, .cfg
+            pyw files
+
+
+
+
 
 14. Code Quality
     typing
