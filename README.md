@@ -375,9 +375,26 @@ To create new branch
                 xml
                 csv
 
-[class27 31th Dec 2024](zoomrecordinglink)
+[class27 02nd Jan 2024](zoomrecordinglink)
+            windows local setup
+            poetry installation
+            Troubleshooting experience
                 csv
                 dat
+                tsv
+
+[class28 06th Jan 2024](zoomrecordinglink)
+
+12.Logging
+    Simple logging
+    configuring log file
+    formatting logs and adding timestamp
+    working with file handler and stream hanlder
+    configuring multiple handlers
+    color logging
+    Rotating logger
+## Next class
+
                 xls/xlsx
                 json
                 yaml
@@ -390,4 +407,55 @@ To create new branch
             config files : .ini, .cfg
             pyw files
 
-## Next class
+
+
+13. OOP
+    Importance of OOP
+    Instantiation and managing attributes
+    constructor and Importance of self
+    instance and class variables
+    Encapsulation
+    MRO, Single and multiple inheritance, composition
+    Method Overwriting, Operator Overloading
+    instance, class and static methods
+    property decorator
+    Dunder(magic) methods
+    reprlib module
+    creating context manager class
+    Dataclasses
+    Abstract Classes
+
+14. Code Quality
+    typing
+    Doctest
+    unittest
+
+15. Regular Expressions
+    re module
+    compiling regex objects
+    match & search
+    find & finditer
+    regex Flags
+    Greedy & Non-Greedy patterns
+	findall & finditer
+	sub and subn
+	regex Flags
+	groups and groupdicts
+	Pearl-style regexes
+	Realworld Problem (log analyses, email Validation, etc)
+
+16. Databases
+    db files - sqlite3
+    Relational DB - MySQL
+    Non-Relational DB - mongoDB
+
+17. Web Services
+    consuming REST API
+    scraping web pages
+    urllib, requests
+
+18. Data Science
+    statistics
+    Numpy
+    Pandas
+    Matplotlib
