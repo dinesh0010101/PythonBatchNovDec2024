@@ -375,7 +375,7 @@ To create new branch
                 xml
                 csv
 
-[class27 02nd Jan 2024](zoomrecordinglink)
+[class27 02nd Jan 2025](zoomrecordinglink)
             windows local setup
             poetry installation
             Troubleshooting experience
@@ -383,7 +383,9 @@ To create new branch
                 dat
                 tsv
 
-[class29 06th Jan 2024](zoomrecordinglink)
+
+[class28 06th Jan 2025](zoomrecordinglink)
+
 
 12.Logging
     Simple logging
@@ -394,10 +396,31 @@ To create new branch
     color logging
     Rotating logger
 
+    
+[class29 08th Jan 2025](zoomrecordinglink)
+
+13. Regular Expressions
+    re module
+    compiling regex objects
+    match & search
+    find & finditer
+    regex Flags
+    Greedy & Non-Greedy patterns
+	findall & finditer
+	sub and subn
+	regex Flags
+	groups and groupdicts
+	Pearl-style regexes
+	Realworld Problem (log analyses, email Validation, etc)
+
+
+
+
+
 
 [class30 08th Jan 2024](zoomrecordinglink)
 
-13. OOP
+14. OOP
     Importance of OOP
     Instantiation and managing attributes
     constructor and Importance of self
@@ -413,7 +436,9 @@ To create new branch
     Dataclasses
     Abstract Classes
 
+    
 ## Next class
+            Structured Files
 
                 xls/xlsx
                 json
@@ -436,19 +461,6 @@ To create new branch
     Doctest
     unittest
 
-15. Regular Expressions
-    re module
-    compiling regex objects
-    match & search
-    find & finditer
-    regex Flags
-    Greedy & Non-Greedy patterns
-	findall & finditer
-	sub and subn
-	regex Flags
-	groups and groupdicts
-	Pearl-style regexes
-	Realworld Problem (log analyses, email Validation, etc)
 
 16. Databases
     db files - sqlite3
