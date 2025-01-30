@@ -383,7 +383,9 @@ To create new branch
                 dat
                 tsv
 
+
 [class28 06th Jan 2025](zoomrecordinglink)
+
 
 12.Logging
     Simple logging
@@ -393,6 +395,7 @@ To create new branch
     configuring multiple handlers
     color logging
     Rotating logger
+
     
 [class29 08th Jan 2025](zoomrecordinglink)
 
@@ -414,8 +417,8 @@ To create new branch
 
 
 
-## Next class
 
+[class30 08th Jan 2024](zoomrecordinglink)
 
 14. OOP
     Importance of OOP
@@ -434,7 +437,9 @@ To create new branch
     Abstract Classes
 
     
+## Next class
             Structured Files
+
                 xls/xlsx
                 json
                 yaml
@@ -446,6 +451,7 @@ To create new branch
             pdf files
             config files : .ini, .cfg
             pyw files
+
 
 
 
